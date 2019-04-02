@@ -1,7 +1,7 @@
 {
-  "name": "spacex-dashboard",
+  "name": "spacex-dashboard-graphql-apollo",
   "version": "1.0.0",
-  "description": "Demo application to practise graphql",
+  "description": "Demo application to practise graphql with apollo and react",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
