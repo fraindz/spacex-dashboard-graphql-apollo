@@ -4,10 +4,11 @@ Demo repository to implement graphql, apollo. New concepts learnt using this cou
 - Creating graphql server using express-graphql
 - ApolloClient and querying graphql schema
 - Running client & server via single command using concurrently
+- Deploying client & server as a single app on heroku
 - Using proxy prop in package.json
 - Bootstrap
 
-Other items refreshed:
+Other tools & libraries refreshed:
 - react-router
 - classNames
 - moment
@@ -15,11 +16,8 @@ Other items refreshed:
 ## Resource used
 https://www.youtube.com/playlist?list=PLillGF-RfqbZrjw48EXLdM4dsOhURCLZx
 
-## Sandbox URL
-https://codesandbox.io/s/github/fraindz/real-chat-application
-
 ## Deployed at
-https://csb-o96wv3x595-yfkwzzkhhm.now.sh/
+https://mlk-graphql.herokuapp.com/
 
 ## App Demo
 ![](app-demo.gif)
